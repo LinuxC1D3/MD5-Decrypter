@@ -1,5 +1,5 @@
 # MD5-Decrypter
-Dieses Skript ist selbst entwickelt und Basiert auf Random Hash von hashcat. Es ist vereinfachter und schneller und es Funktioniert ohne eine wordlist und generiert alle Buchstaben Zahlen durch.
+Dieses Skript ist selbst entwickelt und Basiert auf Random Hash von hashcat. Es ist vereinfachter und schneller und es Funktioniert ohne eine wordlist und generiert alle Buchstaben durch.
 
 (target_hash, min_length=1, max_length=8)
 
